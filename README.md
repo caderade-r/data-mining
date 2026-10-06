@@ -11,8 +11,7 @@ Goals of this script
 - Clustering: find groups of similar people WITHOUT using the income
   column (k-means).
 
-Sections 0. Imports and settings
-
+Sections
 1. Load and clean the data
 2. Helper function (per-class metrics)
 3. Task 1: decision tree + naive Bayes (categorical attributes only)
@@ -24,6 +23,7 @@ Sections 0. Imports and settings
 9. Summary
 
 Requires: pandas, numpy, scikit-learn (version 1.2 or newer)
+
 pip install pandas numpy scikit-learn
 
 Vocabulary used in the comments
